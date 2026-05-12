@@ -2,7 +2,6 @@
 
 > **Why this repo exists:** Most ESP32-CAM boards ship with an OV2640 sensor — but sometimes you get a **RHYX M21-45** instead. Finding working code for this module is a pain, so here it is.
 
-![RHYX M21-45 on ESP32-CAM](images/m21_module.jpg)
 
 ---
 
